@@ -1,0 +1,16 @@
+{
+  "name": "day_1",
+  "version": "1.0.0",
+  "description": "- **What it is**: A programming language used to create interactive and dynamic features on websites.     - **Where it runs**: Initially designed to run only in web browsers.     - What it does: It powers things like buttons, animations, form validations, and dynamic updates on web pages.     Analogy: Think of JavaScript as the engine in a car — it makes things move and work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
